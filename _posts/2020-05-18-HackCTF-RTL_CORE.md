@@ -7,5 +7,5 @@ excerpt_separator:  <!--more-->
 바이너리 주소 [RTL_CORE](https://ctf.j0n9hyun.xyz/login)
 
 ### 문제
-![Binary](../_screenshots/HackCTF_RTLCORE/rtlcore1.png?raw=true)
+![Binary](/assets/HackCTF_RTLCORE/rtlcore1.png?raw=true)
 
